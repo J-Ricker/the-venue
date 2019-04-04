@@ -47,7 +47,7 @@ const VenueInfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        345 Speer Street Oakland, CA 9835
+                                        46 N Orange Ave, Orlando, FL 32801
                                     </div>
                                 </div>
                             </div>
